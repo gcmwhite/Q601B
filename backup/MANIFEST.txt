@@ -1,0 +1,16 @@
+TencentBox Q601B Full System Backup
+Device: <BOX_IP_ETHERNET>:5555 (was <BOX_IP_WIFI> over WiFi before ethernet)
+Created: 2026-11-22 13:46:09
+Image: full_emmc.img.gz (gzip raw eMMC, 31268536320 bytes)
+Decompressed: 31268536320 bytes
+SHA256: 5287ba5febfca3d204ba0c9311973e06c7304cde20839d153ee86c45f981c0c4
+
+Files:
+  MANIFEST.txt  0 bytes
+  build_prop.txt  2669 bytes
+  cmdline.txt  978 bytes
+  full_emmc.img.gz  14688891802 bytes
+  getprop.txt  23481 bytes
+  mounts.txt  4203 bytes
+  packages.txt  7981 bytes
+  partitions.txt  1470 bytes

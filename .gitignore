@@ -1,0 +1,16 @@
+# 临时文件目录
+temp/
+
+# 超大文件（走 GitHub Releases，见 docs/GITHUB_RELEASES.md）
+# 注意：分卷文件放在 releases/ 目录，单独管理
+*.img.gz
+*.img
+releases/
+*.gz
+
+# 敏感/无关文件
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.idsig

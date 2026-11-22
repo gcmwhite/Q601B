@@ -1,0 +1,5 @@
+service flauncher_daemon /system/bin/flauncher_daemon.sh
+    class main
+    user root
+    group root
+    oneshot

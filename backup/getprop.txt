@@ -1,0 +1,1166 @@
+[apexd.status]: [ready]
+
+[audio.hdmi.available]: [1]
+
+[audio.hdmi.expected]: [0]
+
+[auto.susp.on]: [1]
+
+[battery.present]: [false]
+
+[bluetooth.enable_timeout_ms]: [8000]
+
+[bpf.progs_loaded]: [1]
+
+[com.ott.login]: [1|117016070557004]
+
+[dalvik.vm.appimageformat]: [lz4]
+
+[dalvik.vm.dex2oat-Xms]: [64m]
+
+[dalvik.vm.dex2oat-Xmx]: [512m]
+
+[dalvik.vm.dex2oat-max-image-block-size]: [524288]
+
+[dalvik.vm.dex2oat-minidebuginfo]: [true]
+
+[dalvik.vm.dex2oat-resolve-startup-strings]: [true]
+
+[dalvik.vm.dexopt.secondary]: [true]
+
+[dalvik.vm.heapgrowthlimit]: [256m]
+
+[dalvik.vm.heapmaxfree]: [8m]
+
+[dalvik.vm.heapminfree]: [512k]
+
+[dalvik.vm.heapsize]: [512m]
+
+[dalvik.vm.heapstartsize]: [5m]
+
+[dalvik.vm.heaptargetutilization]: [0.75]
+
+[dalvik.vm.image-dex2oat-Xms]: [64m]
+
+[dalvik.vm.image-dex2oat-Xmx]: [64m]
+
+[dalvik.vm.isa.arm.features]: [default]
+
+[dalvik.vm.isa.arm.variant]: [cortex-a7]
+
+[dalvik.vm.lockprof.threshold]: [500]
+
+[dalvik.vm.minidebuginfo]: [true]
+
+[dalvik.vm.usejit]: [true]
+
+[dalvik.vm.usejitprofiles]: [true]
+
+[debug.atrace.tags.enableflags]: [0]
+
+[debug.force_rtl]: [false]
+
+[debug.sf.disable_backpressure]: [1]
+
+[dev.bootcomplete]: [1]
+
+[dev.mnt.blk.product]: [dm-0]
+
+[dev.mnt.blk.root]: [dm-2]
+
+[dev.mnt.blk.vendor]: [dm-1]
+
+[drm.service.enabled]: [true]
+
+[hwservicemanager.ready]: [true]
+
+[init.svc.DisplayDaemonService]: [running]
+
+[init.svc.adbd]: [running]
+
+[init.svc.apexd]: [running]
+
+[init.svc.apexd-bootstrap]: [stopped]
+
+[init.svc.appsdisable]: [stopped]
+
+[init.svc.ashmemd]: [running]
+
+[init.svc.audioserver]: [running]
+
+[init.svc.aw_thermal]: [running]
+
+[init.svc.awlog_crash]: [stopped]
+
+[init.svc.awlog_events]: [stopped]
+
+[init.svc.awlog_main]: [stopped]
+
+[init.svc.awlog_radio]: [stopped]
+
+[init.svc.awlog_system]: [stopped]
+
+[init.svc.bootanim]: [stopped]
+
+[init.svc.bpfloader]: [stopped]
+
+[init.svc.cameraserver]: [running]
+
+[init.svc.console]: [running]
+
+[init.svc.displayservice]: [running]
+
+[init.svc.drm]: [running]
+
+[init.svc.flash_recovery]: [stopped]
+
+[init.svc.gatekeeperd]: [running]
+
+[init.svc.gpio]: [running]
+
+[init.svc.gpu]: [running]
+
+[init.svc.health-hal-2-0]: [running]
+
+[init.svc.hidl_memory]: [running]
+
+[init.svc.hwservicemanager]: [running]
+
+[init.svc.idmap2d]: [running]
+
+[init.svc.incidentd]: [running]
+
+[init.svc.installd]: [running]
+
+[init.svc.iorapd]: [stopped]
+
+[init.svc.irqbalance]: [running]
+
+[init.svc.isomountservice]: [running]
+
+[init.svc.keystore]: [running]
+
+[init.svc.kmsgd]: [stopped]
+
+[init.svc.lmkd]: [running]
+
+[init.svc.log_bg]: [running]
+
+[init.svc.logd]: [running]
+
+[init.svc.logd-auditctl]: [stopped]
+
+[init.svc.logd-reinit]: [stopped]
+
+[init.svc.mdnsd]: [running]
+
+[init.svc.media]: [running]
+
+[init.svc.media.swcodec]: [running]
+
+[init.svc.mediadrm]: [running]
+
+[init.svc.mediaextractor]: [running]
+
+[init.svc.mediametrics]: [running]
+
+[init.svc.multi_ir]: [running]
+
+[init.svc.netd]: [running]
+
+[init.svc.optee]: [running]
+
+[init.svc.preinstall]: [stopped]
+
+[init.svc.servicemanager]: [running]
+
+[init.svc.skmdns]: [running]
+
+[init.svc.sky_check]: [running]
+
+[init.svc.skylogd]: [running]
+
+[init.svc.smbctrl]: [stopped]
+
+[init.svc.statsd]: [running]
+
+[init.svc.storaged]: [running]
+
+[init.svc.surfaceflinger]: [running]
+
+[init.svc.system_suspend]: [running]
+
+[init.svc.tombstoned]: [running]
+
+[init.svc.ueventd]: [running]
+
+[init.svc.usbd]: [stopped]
+
+[init.svc.vendor.audio-hal-2-0]: [running]
+
+[init.svc.vendor.bluetooth-1-0]: [running]
+
+[init.svc.vendor.camera-provider-2-4]: [running]
+
+[init.svc.vendor.cas-hal-1-1]: [running]
+
+[init.svc.vendor.cec-hal-1-0]: [running]
+
+[init.svc.vendor.configstore-hal]: [running]
+
+[init.svc.vendor.drm-clearkey-hal-1-2]: [running]
+
+[init.svc.vendor.drm-hal-1-0]: [running]
+
+[init.svc.vendor.drm-widevine-hal-1-2]: [running]
+
+[init.svc.vendor.gatekeeper-1-0]: [running]
+
+[init.svc.vendor.gralloc-2-0]: [running]
+
+[init.svc.vendor.hwcomposer-2-2]: [running]
+
+[init.svc.vendor.keymaster-3-0]: [running]
+
+[init.svc.vendor.light-hal-2-0]: [stopped]
+
+[init.svc.vendor.media.omx]: [running]
+
+[init.svc.vendor.memtrack-hal-1-0]: [running]
+
+[init.svc.vendor.power-hal-1-0]: [running]
+
+[init.svc.vendor.sensors-hal-2-0]: [running]
+
+[init.svc.vendor.usb-hal-1-0]: [running]
+
+[init.svc.vendor.wifi_hal_legacy]: [running]
+
+[init.svc.vndservicemanager]: [running]
+
+[init.svc.vold]: [running]
+
+[init.svc.wificond]: [running]
+
+[init.svc.wl_info]: [stopped]
+
+[init.svc.wpa_supplicant]: [running]
+
+[init.svc.zygote]: [running]
+
+[log.tag.APM_AudioPolicyManager]: [D]
+
+[log.tag.WifiHAL]: [D]
+
+[log.tag.stats_log]: [I]
+
+[logd.RotateSizeKBytes]: [200000]
+
+[logd.logpersistd.enable]: [true]
+
+[logd.logpersistd.size]: [2]
+
+[media.amplayer.displast_frame]: [1]
+
+[media.hls.disable-nuplayer]: [true]
+
+[media.isplaying]: [false]
+
+[media.skplayer.enable]: [true]
+
+[mediasw.sft.rawdata]: [PCM]
+
+[net.bt.name]: [Android]
+
+[net.dns1]: [fe80::a639:b3ff:fea4:1de6]
+
+[net.dns2]: [<Gateway_IP>]
+
+[net.qtaguid_enabled]: [1]
+
+[net.tcp.default_init_rwnd]: [60]
+
+[persist.audio.vaudio.in]: [false]
+
+[persist.com.ott.login]: [1|117016070557004]
+
+[persist.debug.dalvik.vm.core_platform_api_policy]: [just-warn]
+
+[persist.debug.logpersistd]: [false]
+
+[persist.device_config.attempted_boot_count]: [0]
+
+[persist.disp.device_config.cvbs]: [2,11,1,0,4,-1312759684]
+
+[persist.disp.device_config.hdmi]: [4,5,1,0,4,257]
+
+[persist.disp.margin.hdmi]: [100,100,100,100]
+
+[persist.display.enhance_mode]: [0]
+
+[persist.display.smart_backlight]: [1]
+
+[persist.fw.force_adoptable]: [true]
+
+[persist.logd.RotateSizeKBytes]: [200000]
+
+[persist.logd.filter]: [disable]
+
+[persist.logd.logpersistd]: []
+
+[persist.logd.logpersistd.size]: [2]
+
+[persist.netd.stable_secret]: [c8c3:ddec:1ad2:b859:198e:2077::]
+
+[persist.service.adb.enable]: [1]
+
+[persist.sys.autolaunchblacklist.enable]: [0]
+
+[persist.sys.backrunblacklist.enable]: [0]
+
+[persist.sys.boot.first]: [false]
+
+[persist.sys.boot.reason]: []
+
+[persist.sys.boot.reason.history]: [reboot,shell,1795318645
+
+reboot,7
+
+reboot,8
+
+reboot,6]
+
+[persist.sys.bootanima.path]: [/system/media]
+
+[persist.sys.bootanimation]: [1]
+
+[persist.sys.bootevent]: [true]
+
+[persist.sys.bootvideo.enable]: [false]
+
+[persist.sys.bootvideo.time]: [0]
+
+[persist.sys.bootvideo.warn]: [0]
+
+[persist.sys.castplus.switch]: [on]
+
+[persist.sys.coocaa.ad.stand]: [no]
+
+[persist.sys.coocaa.ad.switch]: [notshow]
+
+[persist.sys.country]: []
+
+[persist.sys.dalvik.vm.lib.2]: [libart.so]
+
+[persist.sys.device_provisioned]: [1]
+
+[persist.sys.disable_rescue]: [true]
+
+[persist.sys.displayinset.top]: [0]
+
+[persist.sys.findme.keyflag]: [true]
+
+[persist.sys.first.boot]: [0]
+
+[persist.sys.hdmi.addr.playback]: [4]
+
+[persist.sys.hdmi.keep_awake]: [false]
+
+[persist.sys.hdmistrategy]: [5]
+
+[persist.sys.hwconfig.hw_ver]: [66152]
+
+[persist.sys.hwconfig.seq_id]: [<SERIAL>]
+
+[persist.sys.hwconfig.soft_ver]: [80023]
+
+[persist.sys.hwconfig.stb_id]: [<STB_ID>]
+
+[persist.sys.isolated_storage]: [true]
+
+[persist.sys.language]: []
+
+[persist.sys.launcherblacklist.enable]: [0]
+
+[persist.sys.locale]: [zh-CN]
+
+[persist.sys.localevar]: []
+
+[persist.sys.mic.switch]: [0]
+
+[persist.sys.newdevice]: [0]
+
+[persist.sys.recovery.current.crash.count]: [0]
+
+[persist.sys.recovery.duration]: [30]
+
+[persist.sys.recovery.min.crash.count]: [5]
+
+[persist.sys.recovery.next.running.step]: [0]
+
+[persist.sys.running.time]: [0]
+
+[persist.sys.screensaver.pattern]: [picture]
+
+[persist.sys.skytheme]: [black]
+
+[persist.sys.strictmode.disable]: [1]
+
+[persist.sys.suspend.enable]: [false]
+
+[persist.sys.timezone]: [Asia/Shanghai]
+
+[persist.sys.usb.config]: [mtp,adb]
+
+[persist.sys.whether.install.apk]: [yes]
+
+[persist.sys.whether.show.apk]: [yes]
+
+[persist.sys.wifi.keepdriver]: [true]
+
+[persist.sys.wifi.type]: [xr819]
+
+[persist.vendor.bluetooth_port]: [/dev/ttyS1]
+
+[persist.vendor.overlay.bluetooth_support]: [0]
+
+[persist.vendor.overlay.bluetooth_vendor]: [NULL]
+
+[persist.vendor.overlay.module_info]: [xradio:xr819:0x12281]
+
+[persist.vendor.overlay.wlan_vendor]: [xradio]
+
+[persist.vendor.p_benchmark]: [true]
+
+[persist.vendor.p_bootcomplete]: [true]
+
+[persist.vendor.p_debug]: [false]
+
+[persist.vendor.p_music]: [true]
+
+[pm.dexopt.ab-ota]: [speed-profile]
+
+[pm.dexopt.bg-dexopt]: [speed-profile]
+
+[pm.dexopt.boot]: [verify]
+
+[pm.dexopt.first-boot]: [quicken]
+
+[pm.dexopt.inactive]: [verify]
+
+[pm.dexopt.install]: [speed-profile]
+
+[pm.dexopt.shared]: [speed]
+
+[ro.actionable_compatible_property.enabled]: [true]
+
+[ro.adb.secure]: [0]
+
+[ro.allow.mock.location]: [0]
+
+[ro.animation.enable]: [1]
+
+[ro.base_build]: [noah]
+
+[ro.baseband]: [unknown]
+
+[ro.bionic.2nd_arch]: []
+
+[ro.bionic.2nd_cpu_variant]: []
+
+[ro.bionic.arch]: [arm]
+
+[ro.bionic.cpu_variant]: [cortex-a7]
+
+[ro.bionic.ld.warning]: [1]
+
+[ro.board.platform]: [cupid]
+
+[ro.boot.boardid]: [12]
+
+[ro.boot.boot_devices]: [soc/sdc0.soc/sdc2.soc]
+
+[ro.boot.boot_type]: [2]
+
+[ro.boot.bootreason]: [reboot,shell]
+
+[ro.boot.dtbo_idx]: [0,1,2]
+
+[ro.boot.dynamic_partitions]: [true]
+
+[ro.boot.hardware]: [sun50iw9p1]
+
+[ro.boot.mode]: [normal]
+
+[ro.boot.secure_os_exist]: [0]
+
+[ro.boot.selinux]: [permissive]
+
+[ro.boot.serialno]: [<SERIAL>]
+
+[ro.bootimage.build.date]: [Mon Jul 17 15:47:38 CST 2023]
+
+[ro.bootimage.build.date.utc]: [1689580058]
+
+[ro.bootimage.build.fingerprint]: [skyworthbox/cupid_p2/cupid-p2:10/QP1A.191105.004/Android07171547:userdebug/release-keys]
+
+[ro.bootloader]: [unknown]
+
+[ro.bootmode]: [normal]
+
+[ro.boottime.DisplayDaemonService]: [4760497598]
+
+[ro.boottime.adbd]: [4492296154]
+
+[ro.boottime.apexd]: [3072868137]
+
+[ro.boottime.apexd-bootstrap]: [1603755281]
+
+[ro.boottime.appsdisable]: [19771389523]
+
+[ro.boottime.ashmemd]: [3665945363]
+
+[ro.boottime.audioserver]: [3669683363]
+
+[ro.boottime.aw_thermal]: [19774609773]
+
+[ro.boottime.bootanim]: [7645474304]
+
+[ro.boottime.bpfloader]: [4765109182]
+
+[ro.boottime.cameraserver]: [4768503849]
+
+[ro.boottime.console]: [2546129375]
+
+[ro.boottime.displayservice]: [19782808816]
+
+[ro.boottime.drm]: [4773212433]
+
+[ro.boottime.flash_recovery]: [4747808847]
+
+[ro.boottime.gatekeeperd]: [4984281495]
+
+[ro.boottime.gpio]: [4778157725]
+
+[ro.boottime.gpu]: [3674059030]
+
+[ro.boottime.health-hal-2-0]: [3639096485]
+
+[ro.boottime.hidl_memory]: [3587923272]
+
+[ro.boottime.hwservicemanager]: [2078073120]
+
+[ro.boottime.idmap2d]: [4781814100]
+
+[ro.boottime.incidentd]: [4786561601]
+
+[ro.boottime.init]: [984]
+
+[ro.boottime.init.cold_boot_wait]: [242]
+
+[ro.boottime.init.mount_all.default]: [365]
+
+[ro.boottime.init.selinux]: [79]
+
+[ro.boottime.installd]: [4791141226]
+
+[ro.boottime.irqbalance]: [19762831314]
+
+[ro.boottime.isomountservice]: [4795625726]
+
+[ro.boottime.keystore]: [4799132268]
+
+[ro.boottime.lmkd]: [3677929281]
+
+[ro.boottime.log_bg]: [3663073404]
+
+[ro.boottime.logd]: [2072729203]
+
+[ro.boottime.logd-auditctl]: [19959203208]
+
+[ro.boottime.logd-reinit]: [3462494968]
+
+[ro.boottime.mdnsd]: [4632907918]
+
+[ro.boottime.media]: [4823878271]
+
+[ro.boottime.media.swcodec]: [4956198159]
+
+[ro.boottime.mediadrm]: [4803071186]
+
+[ro.boottime.mediaextractor]: [4807290478]
+
+[ro.boottime.mediametrics]: [4819648604]
+
+[ro.boottime.multi_ir]: [4838548772]
+
+[ro.boottime.netd]: [3545600226]
+
+[ro.boottime.optee]: [2654481970]
+
+[ro.boottime.preinstall]: [19963235250]
+
+[ro.boottime.servicemanager]: [2075375578]
+
+[ro.boottime.skmdns]: [4756589056]
+
+[ro.boottime.sky_check]: [19757368521]
+
+[ro.boottime.skylogd]: [4751699097]
+
+[ro.boottime.statsd]: [4862674775]
+
+[ro.boottime.storaged]: [4873122609]
+
+[ro.boottime.surfaceflinger]: [3681859948]
+
+[ro.boottime.system_suspend]: [3591223897]
+
+[ro.boottime.tombstoned]: [4994666580]
+
+[ro.boottime.ueventd]: [1600119114]
+
+[ro.boottime.usbd]: [4998520705]
+
+[ro.boottime.vendor.audio-hal-2-0]: [3594698022]
+
+[ro.boottime.vendor.bluetooth-1-0]: [3598031356]
+
+[ro.boottime.vendor.camera-provider-2-4]: [3601790857]
+
+[ro.boottime.vendor.cas-hal-1-1]: [3605368274]
+
+[ro.boottime.vendor.cec-hal-1-0]: [3656161362]
+
+[ro.boottime.vendor.configstore-hal]: [3609176232]
+
+[ro.boottime.vendor.drm-clearkey-hal-1-2]: [25599862067]
+
+[ro.boottime.vendor.drm-hal-1-0]: [25912441473]
+
+[ro.boottime.vendor.drm-widevine-hal-1-2]: [26262286842]
+
+[ro.boottime.vendor.gatekeeper-1-0]: [3621427692]
+
+[ro.boottime.vendor.gralloc-2-0]: [3625001401]
+
+[ro.boottime.vendor.hwcomposer-2-2]: [3629920693]
+
+[ro.boottime.vendor.keymaster-3-0]: [2651792386]
+
+[ro.boottime.vendor.light-hal-2-0]: [10876187587]
+
+[ro.boottime.vendor.media.omx]: [4887229152]
+
+[ro.boottime.vendor.memtrack-hal-1-0]: [3646151736]
+
+[ro.boottime.vendor.power-hal-1-0]: [3649389361]
+
+[ro.boottime.vendor.sensors-hal-2-0]: [3652692862]
+
+[ro.boottime.vendor.usb-hal-1-0]: [3659529821]
+
+[ro.boottime.vendor.wifi_hal_legacy]: [16306124258]
+
+[ro.boottime.vndservicemanager]: [2084654912]
+
+[ro.boottime.vold]: [2110451290]
+
+[ro.boottime.wificond]: [4876939651]
+
+[ro.boottime.wl_info]: [4897895445]
+
+[ro.boottime.wpa_supplicant]: [20019587631]
+
+[ro.boottime.zygote]: [3542938184]
+
+[ro.bt.bdaddr_path]: [/sys/class/addr_mgt/addr_bt]
+
+[ro.build.characteristics]: [tv]
+
+[ro.build.date]: [Mon Jul 17 15:47:38 CST 2023]
+
+[ro.build.date.utc]: [1689580058]
+
+[ro.build.description]: [cupid_p2-userdebug 10 QP1A.191105.004 eng.Androi.20230717.154818 release-keys]
+
+[ro.build.display.id]: [cupid_p2-userdebug 10 QP1A.191105.004 eng.Androi.20230717.154818]
+
+[ro.build.fingerprint]: [TencentBox/cupid_p2/cupid-p2:10/QP1A.191105.004/eng.Androi.20230717.154818:userdebug/release-keys]
+
+[ro.build.flavor]: [cupid_p2-userdebug]
+
+[ro.build.host]: [skworth]
+
+[ro.build.id]: [QP1A.191105.004]
+
+[ro.build.product]: [cupid-p2]
+
+[ro.build.tags]: [release-keys]
+
+[ro.build.type]: [userdebug]
+
+[ro.build.user]: [Android]
+
+[ro.build.version.all_codenames]: [REL]
+
+[ro.build.version.base_os]: []
+
+[ro.build.version.codename]: [REL]
+
+[ro.build.version.incremental]: [eng.Androi.20230717.154818]
+
+[ro.build.version.min_supported_target_sdk]: [23]
+
+[ro.build.version.preview_sdk]: [0]
+
+[ro.build.version.preview_sdk_fingerprint]: [REL]
+
+[ro.build.version.release]: [10]
+
+[ro.build.version.sdk]: [29]
+
+[ro.build.version.security_patch]: [2019-12-05]
+
+[ro.carrier]: [unknown]
+
+[ro.config.alarm_alert]: [Alarm_Classic.ogg]
+
+[ro.config.media_vol_default]: [10]
+
+[ro.config.notification_sound]: [pixiedust.ogg]
+
+[ro.config.per_app_memcg]: [false]
+
+[ro.config.ringtone]: [Ring_Synth_04.ogg]
+
+[ro.content.type]: [tencent]
+
+[ro.crypto.fde_algorithm]: [adiantum]
+
+[ro.crypto.fde_sector_size]: [4096]
+
+[ro.crypto.state]: [unsupported]
+
+[ro.crypto.volume.contents_mode]: [adiantum]
+
+[ro.crypto.volume.filenames_mode]: [adiantum]
+
+[ro.dalvik.vm.native.bridge]: [0]
+
+[ro.debuggable]: [1]
+
+[ro.frp.pst]: [/dev/block/by-name/frp]
+
+[ro.gsid.image_running]: [0]
+
+[ro.hardware]: [sun50iw9p1]
+
+[ro.hardware.keystore_desede]: [true]
+
+[ro.hdmi.device_type]: [4]
+
+[ro.hdmi.wake_on_hotplug]: [0]
+
+[ro.hwui.use_vulkan]: []
+
+[ro.iorapd.enable]: [false]
+
+[ro.jd.product.board]: [创维]
+
+[ro.jd.product.model]: [H4S01]
+
+[ro.jd.product.uuid]: [71A488]
+
+[ro.kernel.android.checkjni]: [0]
+
+[ro.license.tag]: [skyworth]
+
+[ro.lmk.critical]: [1]
+
+[ro.lmk.critical_upgrade]: [false]
+
+[ro.lmk.downgrade_pressure]: [65]
+
+[ro.lmk.kill_heaviest_task]: [false]
+
+[ro.lmk.low]: [500]
+
+[ro.lmk.medium]: [200]
+
+[ro.lmk.upgrade_pressure]: [25]
+
+[ro.lmk.use_minfree_levels]: [false]
+
+[ro.lmk.use_new_strategy]: [false]
+
+[ro.lmk.use_psi]: [false]
+
+[ro.logd.size]: [524288]
+
+[ro.logd.size.crash]: [524288]
+
+[ro.logd.size.main]: [1048576]
+
+[ro.logd.size.stats]: [64K]
+
+[ro.logd.size.system]: [524288]
+
+[ro.lottery.host]: [lottery.skyworthbox.atianqi.com]
+
+[ro.media.keep_last_frame]: [1]
+
+[ro.minui.pixel_format]: [ABGR_8888]
+
+[ro.odm.build.date]: [Mon Jul 17 15:47:38 CST 2023]
+
+[ro.odm.build.date.utc]: [1689580058]
+
+[ro.odm.build.fingerprint]: [skyworthbox/cupid_p2/cupid-p2:10/QP1A.191105.004/Android07171547:userdebug/release-keys]
+
+[ro.odm.build.id]: [QP1A.191105.004]
+
+[ro.odm.build.tags]: [release-keys]
+
+[ro.odm.build.type]: [userdebug]
+
+[ro.odm.build.version.incremental]: [eng.Androi.20230717.154818]
+
+[ro.odm.build.version.release]: [10]
+
+[ro.odm.build.version.sdk]: [29]
+
+[ro.odm.product.cpu.abilist]: [armeabi-v7a,armeabi]
+
+[ro.odm.product.cpu.abilist32]: [armeabi-v7a,armeabi]
+
+[ro.odm.product.cpu.abilist64]: []
+
+[ro.oem_unlock_supported]: [1]
+
+[ro.opengles.version]: [196610]
+
+[ro.persistent_properties.ready]: [true]
+
+[ro.postinstall.fstab.prefix]: [/system]
+
+[ro.product.board]: [exdroid]
+
+[ro.product.brand]: [TencentBox]
+
+[ro.product.build.date]: [Mon Jul 17 15:47:38 CST 2023]
+
+[ro.product.build.date.utc]: [1689580058]
+
+[ro.product.build.fingerprint]: [skyworthbox/cupid_p2/cupid-p2:10/QP1A.191105.004/Android07171547:userdebug/release-keys]
+
+[ro.product.build.id]: [QP1A.191105.004]
+
+[ro.product.build.tags]: [release-keys]
+
+[ro.product.build.type]: [userdebug]
+
+[ro.product.build.version.incremental]: [eng.Androi.20230717.154818]
+
+[ro.product.build.version.release]: [10]
+
+[ro.product.build.version.sdk]: [29]
+
+[ro.product.cpu.abi]: [armeabi-v7a]
+
+[ro.product.cpu.abi2]: [armeabi]
+
+[ro.product.cpu.abilist]: [armeabi-v7a,armeabi]
+
+[ro.product.cpu.abilist32]: [armeabi-v7a,armeabi]
+
+[ro.product.cpu.abilist64]: []
+
+[ro.product.device]: [cupid-p2]
+
+[ro.product.firmware]: [H616-Q-v1.0]
+
+[ro.product.first_api_level]: [29]
+
+[ro.product.locale]: [en-US]
+
+[ro.product.manufacturer]: [SkyworthDigitalRT]
+
+[ro.product.model]: [Q601B]
+
+[ro.product.model.def]: [Q6033]
+
+[ro.product.name]: [cupid_p2]
+
+[ro.product.odm.brand]: [TencentBox]
+
+[ro.product.odm.device]: [cupid-p2]
+
+[ro.product.odm.manufacturer]: [SkyworthDigitalRT]
+
+[ro.product.odm.model]: [Q6033]
+
+[ro.product.odm.name]: [cupid_p2]
+
+[ro.product.odm.platform]: [homlet]
+
+[ro.product.platform]: [homlet]
+
+[ro.product.product.brand]: [TencentBox]
+
+[ro.product.product.device]: [cupid-p2]
+
+[ro.product.product.manufacturer]: [SkyworthDigitalRT]
+
+[ro.product.product.model]: [Q6033]
+
+[ro.product.product.name]: [cupid_p2]
+
+[ro.product.product.platform]: [homlet]
+
+[ro.product.system.brand]: [TencentBox]
+
+[ro.product.system.device]: [cupid-p2]
+
+[ro.product.system.manufacturer]: [SkyworthDigitalRT]
+
+[ro.product.system.model]: [Q6033]
+
+[ro.product.system.name]: [cupid_p2]
+
+[ro.product.system.platform]: [homlet]
+
+[ro.product.vendor.brand]: [TencentBox]
+
+[ro.product.vendor.device]: [cupid-p2]
+
+[ro.product.vendor.manufacturer]: [SkyworthDigitalRT]
+
+[ro.product.vendor.model]: [Q6033]
+
+[ro.product.vendor.name]: [cupid_p2]
+
+[ro.product.vendor.platform]: [homlet]
+
+[ro.property_service.version]: [2]
+
+[ro.revision]: [0]
+
+[ro.runtime.firstboot]: [1795318664826]
+
+[ro.secure]: [1]
+
+[ro.serialno]: [<SERIAL>]
+
+[ro.setting.type]: [tencent]
+
+[ro.sf.disablerotation]: [1]
+
+[ro.sf.lcd_density]: [320]
+
+[ro.stb.adv.url]: [cfg.skyworthbox.com]
+
+[ro.stb.apk.store.url]: [storeapk.skyworthbox.com]
+
+[ro.stb.app.store.url]: [appstore.skyworthbox.com]
+
+[ro.stb.appupgrade]: [appupgrade.skyworthbox.com]
+
+[ro.stb.bigdata]: [collect.skyworthdigital.com]
+
+[ro.stb.chip]: [H618]
+
+[ro.stb.domain.url]: [launcher.aiseewapp.atianqi.com]
+
+[ro.stb.game.store.url]: [gamestore.skyworthbox.com]
+
+[ro.stb.helpcenter.url]: [message.skyworthbox.com]
+
+[ro.stb.img.store.url]: [storepicture.skyworthbox.com]
+
+[ro.stb.launcher.url]: [qlauncher.skyworthbox.com]
+
+[ro.stb.log.url]: [log.skyworthbox.com]
+
+[ro.stb.monitor.url]: [monitor.skyworthbox.com]
+
+[ro.stb.notice.url]: [message.skyworthbox.com]
+
+[ro.stb.ntp.url]: [qnode.skyworthbox.com]
+
+[ro.stb.ota.url]: [ota.skyworthbox.com]
+
+[ro.stb.ott.url]: [ott.skyworthbox.com]
+
+[ro.stb.sdcard]: [/sdcard]
+
+[ro.stb.specialsubject.url]: [qlauncher.skyworthbox.com]
+
+[ro.stb.stat.url]: [data.skyworthbox.com]
+
+[ro.stb.weixin.url]: [weixin.skyworthbox.com]
+
+[ro.surface_flinger.protected_contents]: [true]
+
+[ro.sys.cputype]: [QuadCore-H616]
+
+[ro.sys.dis_app_animation]: [true]
+
+[ro.system.build.date]: [Mon Jul 17 15:47:38 CST 2023]
+
+[ro.system.build.date.utc]: [1689580058]
+
+[ro.system.build.fingerprint]: [skyworthbox/cupid_p2/cupid-p2:10/QP1A.191105.004/Android07171547:userdebug/release-keys]
+
+[ro.system.build.id]: [QP1A.191105.004]
+
+[ro.system.build.tags]: [release-keys]
+
+[ro.system.build.type]: [userdebug]
+
+[ro.system.build.version.incremental]: [eng.Androi.20230717.154818]
+
+[ro.system.build.version.release]: [10]
+
+[ro.system.build.version.sdk]: [29]
+
+[ro.treble.enabled]: [true]
+
+[ro.vendor.build.date]: [Mon Jul 17 15:47:38 CST 2023]
+
+[ro.vendor.build.date.utc]: [1689580058]
+
+[ro.vendor.build.fingerprint]: [skyworthbox/cupid_p2/cupid-p2:10/QP1A.191105.004/Android07171547:userdebug/release-keys]
+
+[ro.vendor.build.id]: [QP1A.191105.004]
+
+[ro.vendor.build.security_patch]: []
+
+[ro.vendor.build.tags]: [release-keys]
+
+[ro.vendor.build.type]: [userdebug]
+
+[ro.vendor.build.version.incremental]: [eng.Androi.20230717.154818]
+
+[ro.vendor.build.version.ota]: [9.0.1]
+
+[ro.vendor.build.version.release]: [10]
+
+[ro.vendor.build.version.sdk]: [29]
+
+[ro.vendor.product.cpu.abilist]: [armeabi-v7a,armeabi]
+
+[ro.vendor.product.cpu.abilist32]: [armeabi-v7a,armeabi]
+
+[ro.vendor.product.cpu.abilist64]: []
+
+[ro.vendor.sys.ota.license]: [a468243df01f65575218136bdcc17d47a25ccc96b604d6a6b5d62c5f8c96dde1fcba2e168eab23d8]
+
+[ro.vndk.version]: [29]
+
+[ro.wifi.channels]: []
+
+[ro.zygote]: [zygote32]
+
+[security.perf_harden]: [1]
+
+[selinux.restorecon_recursive]: [/data/misc_ce/0]
+
+[service.adb.tcp.port]: [5555]
+
+[service.bootanim.delay]: [0]
+
+[service.bootanim.exit]: [1]
+
+[service.sf.present_timestamp]: [1]
+
+[sys.boot.reason]: [reboot,shell]
+
+[sys.boot.reason.last]: [reboot,shell]
+
+[sys.boot_completed]: [1]
+
+[sys.display-size]: [3840x2160]
+
+[sys.factory.bootcompleted]: [true]
+
+[sys.isolated_storage_snapshot]: [true]
+
+[sys.lmk.minfree_levels]: [18432:0,23040:100,27648:200,32256:250,36864:900,46080:950]
+
+[sys.lmk_top_app]: [com.ktcp.launcher]
+
+[sys.log.isread]: [false]
+
+[sys.log.tag]: [SKYLOGS]
+
+[sys.logbootcomplete]: [1]
+
+[sys.oem_unlock_allowed]: [0]
+
+[sys.retaildemo.enabled]: [0]
+
+[sys.sensors]: [1]
+
+[sys.sysctl.extra_free_kbytes]: [24300]
+
+[sys.sysctl.tcp_def_init_rwnd]: [60]
+
+[sys.system_server.start_count]: [1]
+
+[sys.system_server.start_elapsed]: [9480]
+
+[sys.system_server.start_uptime]: [9480]
+
+[sys.usb.config]: [mtp,adb]
+
+[sys.usb.configfs]: [1]
+
+[sys.usb.controller]: [5100000.udc-controller]
+
+[sys.usb.ffs.max_read]: [524288]
+
+[sys.usb.ffs.max_write]: [524288]
+
+[sys.usb.ffs.ready]: [1]
+
+[sys.usb.mtp.device_type]: [3]
+
+[sys.usb.state]: [mtp,adb]
+
+[sys.use_memfd]: [false]
+
+[sys.user.0.ce_available]: [true]
+
+[sys.wifitracing.started]: [1]
+
+[tombstoned.max_tombstone_count]: [50]
+
+[vendor.audio.input.active]: [AUDIO_CODEC]
+
+[vendor.audio.output.active]: [AUDIO_CODEC,AUDIO_HDMI]
+
+[vendor.mediasw.sft.rawdata]: [PCM]
+
+[vendor.sys.tv_vdid_fex]: [LG TV]
+
+[vendor.wlan.driver.version]: [XRADIO_DRIVER]
+
+[vendor.wlan.firmware.version]: [XRADIO_FIRMWARE]
+
+[vold.has_adoptable]: [1]
+
+[vold.has_quota]: [1]
+
+[vold.has_reserved]: [1]
+
+[vold.post_fs_data_done]: [1]
+
+[wifi.active.interface]: [wlan0]
+
+[wifi.direct.interface]: [p2p-dev-wlan0]
+
+[wifi.interface]: [wlan0]
+
+[wlan.driver.status]: [ok]
+
